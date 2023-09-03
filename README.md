@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/pR8lmpdi)
 # Problem: FizzBuzz
 
 Write a JavaScript function called _fizzBuzz(max)_ that takes a maximum value as input and generates the FizzBuzz pattern up to that value. The input value _max_ will be a positive integer. In the FizzBuzz pattern, replace numbers that are multiples of 3 with "Fizz," numbers that are multiples of 5 with "Buzz," and numbers that are multiples of both 3 and 5 with "FizzBuzz." Return a single string that represents the entire pattern without spaces between terms.
